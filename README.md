@@ -23,7 +23,7 @@
  <hr/>
 
 <div align="center">
-  <h3>Tech Stack</h3>
+  <h2>Tech Stack</h2>
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
