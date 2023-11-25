@@ -1,10 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Severitylol.Severitylol" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Severity!;" />
 </h1>
 
 <h3 align="center">I'm a full stack/backened developer based in the US</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Severitylol&label=Profile%20views&color=5564f2&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5564f2&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Severitylol" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5564f2&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Severitylol" alt="Forks" />
+</p>
 
 <br/>
 
