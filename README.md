@@ -13,14 +13,12 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning C++ and C#
-
- 👀 All of my projects are available via [Github](https://github.com/Severitylol?tab=repositories)
-
- 📫 You can contact me by joining my [Discord Server](https://discord.gg/UzdexZWyTj)
-
- </div>
+  🌱 I’m currently learning C++ and C#
+  <br>
+  👀 All of my projects are available via <a href="https://github.com/Severitylol?tab=repositories" target="_blank" rel="noreferrer">Github</a>
+  <br>
+  📫 You can contact me by joining my <a href="https://discord.gg/UzdexZWyTj" target="_blank" rel="noreferrer">Discord Server</a>
+</div>
 
  <hr/>
  
