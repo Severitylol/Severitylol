@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning C++ and C#
 
- 👀 All of my projects are available via [Github]([https://github.com/salesp07/salesp07/issues](https://github.com/Severitylol?tab=repositories))
+ 👀 All of my projects are available via [Github](https://github.com/Severitylol?tab=repositories)
 
  📫 You can contact me by joining my [Discord Server](https://discord.gg/UzdexZWyTj)
 
