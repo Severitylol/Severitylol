@@ -17,7 +17,7 @@
   <br>
   👀 All of my projects are available via <a href="https://github.com/Severitylol?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>
   <br>
-  📫 You can contact me by joining my <a href="https://discord.gg/UzdexZWyTj" target="_blank" rel="noopener noreferrer">Discord Server</a>
+  📫 You can contact me by joining my <a href="https://discord.gg/lithiyum" target="_blank" rel="noopener noreferrer">Discord Server</a>
 </div>
 
 <hr/>
